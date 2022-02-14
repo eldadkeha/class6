@@ -43,3 +43,5 @@ not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
 [I 21:00:21.409 NotebookApp] Saving file at /requirements.txt
 [I 21:00:30.365 NotebookApp] Saving file at /G6.ipynb
+[W 21:09:31.189 NotebookApp] Culling 'idle' kernel 'python3' (3356018b-f689-45d8-bc0d-10dbcee35e20) with 2 connections due to 657 seconds of inactivity.
+[I 21:09:31.191 NotebookApp] Kernel shutdown: 3356018b-f689-45d8-bc0d-10dbcee35e20
